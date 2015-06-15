@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/skortchmark9/times-trailers/issues"
   },
-  "homepage": "https://github.com/skortchmark9/times-trailers"
+  "homepage": "https://github.com/skortchmark9/times-trailers",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.0.1"
+  }
 }
